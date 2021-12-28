@@ -7521,11 +7521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+      "projectUniqueName": "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
       "projectName": "Catalog.UnitTests",
-      "projectPath": "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+      "projectPath": "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.UnitTests\\obj\\",
+      "outputPath": "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7540,8 +7540,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
-              "projectPath": "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj"
+            "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
+              "projectPath": "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj"
             }
           }
         }

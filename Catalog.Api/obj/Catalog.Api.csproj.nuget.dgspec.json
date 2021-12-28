@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {}
+    "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
+    "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+        "projectUniqueName": "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
         "projectName": "Catalog.Api",
-        "projectPath": "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+        "projectPath": "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\obj\\",
+        "outputPath": "c:\\Users\\Bruno\\Documents\\Projects\\Catalog\\Catalog.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"
