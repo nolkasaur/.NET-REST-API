@@ -1,4 +1,4 @@
-# .NET-REST-API (Work In Progress)
+# .NET-REST-API
 
 Remembering old stuff and learning new stuff.
 
